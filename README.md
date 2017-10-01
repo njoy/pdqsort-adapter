@@ -1,5 +1,5 @@
 # pdqsort-adapter
-A repository which adapts Orson Peters's implementation of [Pattern Defeating Quicksort](https://github.com/orlp/pdqsort) repository for use in the NJOY21 build scheme.
+A repository which adapts Orson Peters's implementation of [Pattern Defeating Quicksort](https://github.com/orlp/pdqsort) for use in the NJOY21 build scheme.
 
 
 ## Git Subtree
