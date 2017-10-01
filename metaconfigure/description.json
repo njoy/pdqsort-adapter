@@ -1,0 +1,41 @@
+{
+  "file extension": {
+    "header files": [
+      "h++", 
+      "hxx", 
+      "hpp", 
+      "hh", 
+      "h"
+    ], 
+    "implementation files": [
+      "c++", 
+      "cxx", 
+      "cpp", 
+      "cc", 
+      "C"
+    ]
+  }, 
+  "header files": [
+    "src/orlp.hpp", 
+    "src/orlp/pdqsort.h", 
+    "src/orlp/bench/timsort.h"
+  ], 
+  "ignore pattern": "$^", 
+  "implementation files": [
+    "src/orlp/bench/bench.cpp"
+  ], 
+  "initialized": true, 
+  "is external project": true, 
+  "language": "c++", 
+  "name": "pdqsort-adapter", 
+  "standard": "c++14", 
+  "standards": [
+    "c++98", 
+    "c++11", 
+    "c++14"
+  ], 
+  "strict": true, 
+  "test pattern": "test$", 
+  "tests": {}, 
+  "update": false
+}
