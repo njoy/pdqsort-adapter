@@ -1,5 +1,5 @@
 namespace orlp {
 
-#include "orlp/pdqsort.hpp"
+#include "orlp/pdqsort.h"
 
 }
